@@ -5,6 +5,7 @@
 ;* To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.
 
 ;Required hardware:
+;Breadboard and a whole mess of wires
 ;1x Intel 8085 or equivalent
 ;2x Intel 8155 or equivalent
 ;3x 8-position DIP switches
